@@ -9,6 +9,7 @@ plt.plot(y, z)
 plt.xlabel("y")
 plt.ylabel("z")
 plt.show()
+print ("just added this line")
 
  
 
